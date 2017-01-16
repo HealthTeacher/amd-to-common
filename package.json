@@ -2,7 +2,7 @@
   "name": "amd-to-common",
   "version": "1.2.0",
   "description": "Convert AMD style requires to CommonJS style",
-  "main": "arc/amd-to-common.js",
+  "main": "src/amd-to-common.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
